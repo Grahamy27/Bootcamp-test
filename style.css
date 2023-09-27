@@ -1,0 +1,14 @@
+.column {
+    width:300px;
+    float:left;
+}
+
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+/* TODO: Label selector type */
+body {
+  background-color: lemonchiffon;
+}
+
